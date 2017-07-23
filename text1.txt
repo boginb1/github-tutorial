@@ -1,49 +1,34 @@
-October arrived, spreading a damp chill over the grounds and into the castle. Madam Pomfrey, the nurse, was kept busy by a sudden 
-spate of colds among the staff and students. Her Pepperup potion worked instantly, though it left the drinker smoking at the ears 
-for several hours afterward. Ginny Weasley, who had been looking pale, was bullied into taking some by Percy. The steam pouring from 
-under her vivid hair gave the impression that her whole head was on fire. 
+Mercury Conference
+SC is beautiful. The conference was very interesting and this script is going to be used in my github tutorial. I like the lord of the rings over 
+Harry Potter so I deleted the entire story.
 
-Raindrops the size of bullets thundered on the castle windows for days on end; the lake rose, the flower beds turned into muddy streams, 
-and Hagrid's pumpkins swelled to the size of garden sheds. Oliver Wood's enthusiasm for regular training sessions, however, was not 
-dampened, which was why Harry was to be found, late one stormy Saturday afternoon a few days before Halloween, returning to Gryffindor 
-Tower, drenched to the skin and splattered with mud. 
+'And behind us comes a very storm of Mordor,' said Gandalf. 'It will be a black night.'
+As the second day of their riding drew on, the heaviness in the air increased. In the afternoon the dark clouds began to overtake them: a sombre canopy with great billowing edges flecked with dazzling light. The sun went down, blood-red in a smoking haze. The spears of the Riders were tipped with fire as the last shafts of light kindled the steep faces of the peaks of Thrihyrne: now very near they stood on the northernmost arm of the White Mountains, three jagged horns staring at the sunset. In the last red glow men in the vanguard saw a black speck, a horseman riding back towards them. They halted awaiting him.
+He came, a weary man with dinted helm and cloven shield. Slowly he climbed from his horse and stood there a while gasping. At length he spoke. 'Is Éomer here?' he asked. 'You come at last, but too late, and with too little strength. Things have gone evilly since Théodred fell. We were driven back yesterday over the Isen with great loss; many perished at the crossing. Then at night fresh forces came over the river against our camp. All Isengard must be emptied; and Saruman has armed the wild hillmen and herd-folk of Dunland beyond the rivers, and these also he loosed upon us. We were overmastered. The shield-wall was broken. Erkenbrand of Westfold has drawn off those men he could gather towards his fastness in Helm's Deep. The rest are scattered.
+'Where is Éomer? Tell him there is no hope ahead. He should return to Edoras before the wolves of Isengard come there.' Théoden had sat silent, hidden from the man's sight behind his guards; now he urged his horse forward. 'Come, stand before me, Ceorl!' he said. 'I am here. The last host of the Eorlingas has ridden forth. It will not return without battle.'
+The man's face lightened with joy and wonder. He drew himself up. Then he knelt, offering his notched sword to the king. 'Command me, lord!' he cried. 'And pardon me! I thought-'
+'You thought I remained in Meduseld bent like an old tree under winter snow. So it was when you rode to war. But a west wind has shaken the boughs,' said Théoden. 'Give this man a fresh horse! Let us ride to the help of Erkenbrand!'
+While Théoden was speaking, Gandalf rode a short way ahead, and he sat there alone, gazing north to Isengard and west to the setting sun. Now he came back.
+'Ride, Théoden!' he said. 'Ride to Helm's Deep! Go not to the Fords of Isen, and do not tarry in the plain! I must leave you for a while. Shadowfax must bear me now on a swift errand.' Turning to Aragorn and Éomer and the men of the king's household, he cried: 'Keep well the Lord of the Mark, till I return. Await me at Helm's Gate! Farewell!'
+He spoke a word to Shadowfax, and like an arrow from the bow the great horse sprang away. Even as they looked he was gone: a flash of silver in the sunset, a wind over the grass, a shadow that fled and passed from sight. Snowmane snorted and reared, eager to follow; but only a swift bird on the wing could have overtaken him.
+'What does that mean?' said one of the guard to Háma.
+'That Gandalf Greyhame has need of haste,' answered Háma. 'Ever he goes and comes unlooked-for:'
+'Wormtongue, were he here, would not find it hard to explain 'Said the other.
+'True enough,' said Háma; 'but for myself, I will wait until I see Gandalf again.'
+'Maybe you will wait long,' said the other.
+The host turned away now from the road to the Fords of Isen and bent their course southward. Night fell, and still they rode on. The hills drew near, but the tall peaks of Thrihyrne were already dim against the darkening sky. Still some miles away, on the far side of the Westfold Vale, lay a green coomb, a great bay in the mountains, out of which a gorge opened in the hills. Men of that land called it Helm's Deep, after a hero of old wars who had made his refuge there. Ever steeper and narrower it wound inward from the north under the shadow of the Thrihyrne, till the crow-haunted cliffs rose like mighty towers on either side, shutting out the light.
+At Helm's Gate, before the mouth of the Deep, there was a heel of rock thrust outward by the northern cliff. There upon its spur stood high walls of ancient stone, and within them was a lofty tower. Men said that in the far-off days of the glory of Gondor the sea-kings had built here this fastness with the hands of giants. The Hornburg it was called, for a trumpet sounded upon the tower echoed in the Deep behind, as if armies long-forgotten were issuing to war from caves beneath the hills. A wall, too, the men of old had made from the Hornburg to the southern cliff, barring the entrance to the gorge. Beneath it by a wide culvert the Deeping-stream passed out. About the feet of the Hornrock it wound, and flowed then in a gully through the midst of a wide green gore, sloping gently down from Helm's Gate to Helm's Dike. Thence it fell into the Deeping-coomb and out into the Westfold Vale. There in the Hornburg at Helm's Gate Erkenbrand, master of Westfold on the borders of the Mark, now dwelt. As the days darkened with threat of war, being wise, he had repaired the wall and made the fastness strong.
+The Riders were still in the low valley before the mouth of the Coomb, when cries and hornblasts were heard from their scouts that went in front. Out of the darkness arrows whistled. Swiftly a scout rode back and reported that wolf-riders were abroad in the valley, and that a host of Orcs and wild men were hurrying southward from the Fords of Isen and seemed to be making for Helm's Deep.
+'We have found many of our folk lying slain as they fled thither,' said the scout. 'And we have met scattered companies, going this way and that, leaderless. What has become of Erkenbrand none seem to know. It is likely that he will be overtaken ere he can reach Helm's Gate, if he has not already perished.'
+'Has aught been seen of Gandalf?' asked Théoden.
+'Yes, lord. Many have seen an old man in white upon a horse, passing hither and thither over the plains like wind in the grass. Some thought he was Saruman. It is said that he went away ere nightfall towards Isengard. Some say also that Wormtongue was seen earlier, going northward with a company of Orcs.'
+'It will go ill with Wormtongue, if Gandalf comes upon him said Théoden. 'Nonetheless I miss now both my counsellors, the old and the new. But in this need we have no better choice than to go on, as Gandalf said, to Helm's Gate, whether Erkenbrand be there or no. Is it known how great is the host that comes from the North?'
+'It is very great,' said the scout. 'He that flies counts every foeman twice, yet I have spoken to stouthearted men, and I do not doubt that the main strength of the enemy is many times as great as all that we have here.'
+'Then let us be swift,' said Éomer. 'Let us drive through such foes as are already between us and the fastness. There are caves in Helm's Deep where hundreds may lie hid; and secret ways lead thence up on to the hills.
+'Trust not to secret ways,' said the king. 'Saruman has long spied out this land. Still in that place our defence may last long. Let us go!'
 
-Even aside from the rain and wind it hadn't been a happy practice session. Fred and George, who had been spying on the Slytherin team, 
-had seen for themselves the speed of those new Nimbus Two Thousand and Ones. They reported that the Slytherin team was no more than seven 
-greenish blurs, shooting through the air like missiles. 
 
-As Harry squelched along the deserted corridor he came across somebody who looked just as preoccupied as he was. Nearly Headless Nick, 
-the ghost of Gryffindor Tower, was staring morosely out of a window, muttering under his breath, ". . . don't fulfill their 
-requirements . . . half an inch, if that . . ." 
 
-"Hello, Nick," said Harry. 
 
-"Hello, hello," said Nearly Headless Nick, starting and looking round. He wore a dashing, plumed hat on his long curly hair, 
-and a tunic with a ruff, which concealed the fact that his neck was almost completely severed. He was pale as smoke, and Harry 
-could see right through him to the dark sky and torrential rain outside. 
 
-"You look troubled, young Potter," said Nick, folding a transparent letter as he spoke and tucking it inside his doublet. 
 
-"So do you," said Harry. 
-
-"Ah," Nearly Headless Nick waved an elegant hand, "a matter of no importance. . . . It's not as though I really wanted to join. . . . 
-Thought I'd apply, but apparently I 'don't fulfill requirements' -" 
-
-In spite of his airy tone, there was a look of great bitterness on his face. 
-
-"But you would think, wouldn't you," he erupted suddenly, pulling the letter back out of his pocket, "that getting hit forty-five 
-times in the neck with a blunt axe would qualify you to join the Headless Hunt?" 
-
-"Oh - yes," said Harry, who was obviously supposed to agree. 
-
-"I mean, nobody wishes more than I do that it had all been quick and clean, and my head had come off properly, I mean, 
-it would have saved me a great deal of pain and ridicule. However -" Nearly Headless Nick shook his letter open and read 
-furiously: "'We can only accept huntsmen whose heads have parted company with their bodies. You will appreciate that it would be 
-impossible otherwise for members to participate in hunt activities such as Horseback Head-Juggling and Head Polo. It is with the 
-greatest regret, therefore, that I must inform you that you do not fulfill our requirements. With very best wishes, 
-Sir Patrick Delaney-Podmore.'" 
-
-Fuming, Nearly Headless Nick stuffed the letter away. 
-
-"Half an inch of skin and sinew holding my neck on, Harry! Most people would think that's good and beheaded, but oh, no, 
-it's not enough for Sir Properly Decapitated-Podmore." 
